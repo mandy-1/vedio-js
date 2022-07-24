@@ -6,4 +6,4 @@
  b) Set it so if there's no next, it loops to the first one.<br>
  c) Deactivate current source, and activate next one.<br>
  d) Update the video source and play.</p>
-<a href="https://vedio-js.herokuapp.com/"></a>
+<a href="https://vedio-js.herokuapp.com/">Link to website</a>
